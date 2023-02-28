@@ -13,9 +13,9 @@ class DiffereceViewController: UIViewController {
     
     @IBOutlet weak var panda: UIImageView!
     
-    let pandainfo = Informat(name: "Panda", image:UIImage(named: "2")!, type: "Apple", weight: " 1", length: 7000, diet: "Apple", region: "", speed: 10)
+    let pandainfo = Informat(name: "Panda", image:UIImage(named: "4")!, type: "", weight: "80 - 120", length: 1.2, diet: "Bamboo", region: "China", speed: 10)
     
-    let redpandainfo = Informat(name: "Red Panda", image:UIImage(named: "2")!, type: "", weight: " 2", length: 18000, diet: "Bamboo", region: "", speed: 8)
+    let redpandainfo = Informat(name: "Red Panda", image:UIImage(named: "2")!, type: "", weight: "5", length: 0.6, diet: "Apple", region: "Myanmar, Nepal, India, China", speed: 8)
     
     var animaltype: [Informat] = []
     override func viewDidLoad() {

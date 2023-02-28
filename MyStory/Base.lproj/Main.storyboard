@@ -196,7 +196,6 @@
                             <constraint firstItem="jGX-SZ-owJ" firstAttribute="top" secondItem="4Da-gn-huk" secondAttribute="top" constant="30" id="Fwv-YM-ueO"/>
                             <constraint firstItem="jGX-SZ-owJ" firstAttribute="leading" secondItem="4Da-gn-huk" secondAttribute="leading" constant="32" id="HjB-KC-saD"/>
                             <constraint firstItem="jDa-Fa-mOR" firstAttribute="leading" secondItem="4Da-gn-huk" secondAttribute="leading" id="JfN-PJ-PJf"/>
-                            <constraint firstItem="jGX-SZ-owJ" firstAttribute="top" secondItem="4Da-gn-huk" secondAttribute="top" constant="30" id="dbv-If-qEW"/>
                             <constraint firstItem="jDa-Fa-mOR" firstAttribute="top" secondItem="1j6-zC-dHA" secondAttribute="topMargin" id="fWm-0Y-Eht"/>
                             <constraint firstItem="4Da-gn-huk" firstAttribute="bottom" secondItem="jDa-Fa-mOR" secondAttribute="bottom" id="i6H-BN-s7P"/>
                             <constraint firstItem="jDa-Fa-mOR" firstAttribute="trailing" secondItem="4Da-gn-huk" secondAttribute="trailing" id="ztI-0f-MOX"/>
@@ -254,7 +253,6 @@
                                         </subviews>
                                         <rect key="contentStretch" x="1" y="0.0" width="1" height="1"/>
                                         <constraints>
-                                            <constraint firstAttribute="bottom" secondItem="PXq-S9-RYi" secondAttribute="bottom" id="PeT-9W-UsE"/>
                                             <constraint firstItem="PXq-S9-RYi" firstAttribute="top" secondItem="0NW-gR-nDC" secondAttribute="top" id="TWd-JG-xFK"/>
                                             <constraint firstAttribute="trailing" secondItem="PXq-S9-RYi" secondAttribute="trailing" id="sas-dq-bni"/>
                                             <constraint firstItem="PXq-S9-RYi" firstAttribute="leading" secondItem="0NW-gR-nDC" secondAttribute="leading" id="toO-Z7-CxL"/>
